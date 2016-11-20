@@ -18,7 +18,7 @@ import java.io.IOException;
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public abstract class N11ChallangeApplicationTests {
 	/**
-	 * i made it abstract to use inside in other Inttest class's like RomanNumeralControllerTest.class
+	 * i made it abstract to use inside in other Inttest class's like RomanNumeralControllerTest.class.
 	 */
 	@Value("${local.server.port}")
 	private Integer serverPort;
