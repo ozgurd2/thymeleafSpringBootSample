@@ -1,6 +1,6 @@
-# n11-challange
+# n11-challenge
 
-n11 spring boot challange : https://n11app-ozgurdemirel.herokuapp.com
+n11 spring boot challenge : https://n11app-ozgurdemirel.herokuapp.com
 
 http://start.spring.io/ kullanarak projeyi oluşturdum.
 
